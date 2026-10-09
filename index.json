@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "generated": "2026-10-09T09:50:00+00:00",
+  "presets": {
+    "3": {
+      "author": "Blapples",
+      "updated": "2026-10-06T21:09:16+08:00"
+    },
+    "Angel": {
+      "author": "Asia4046",
+      "updated": "2026-10-07T22:56:19+05:30"
+    },
+    "Astronaut": {
+      "author": "pctrade",
+      "updated": "2026-10-08T23:39:23Z"
+    },
+    "Chips": {
+      "author": "pctrade",
+      "updated": "2026-10-08T11:55:42Z"
+    },
+    "Cosmic_Mirror": {
+      "author": "pctrade",
+      "updated": "2026-10-06T05:18:20-05:00"
+    },
+    "Dewdrop": {
+      "author": "pctrade",
+      "updated": "2026-10-06T09:17:08Z"
+    },
+    "End4_default": {
+      "author": "pctrade",
+      "updated": "2026-10-09T00:25:59Z"
+    },
+    "Grass": {
+      "author": "Asia4046",
+      "updated": "2026-10-08T16:37:54Z"
+    },
+    "Gruvbox": {
+      "author": "Asia4046",
+      "updated": "2026-10-08T21:16:16Z"
+    },
+    "Haimiya-Senpai": {
+      "author": "LevaxGit",
+      "updated": "2026-10-09T04:49:42-05:00"
+    },
+    "START_LINE": {
+      "author": "Sweebs02",
+      "updated": "2026-10-06T19:06:10+08:00"
+    },
+    "Simple": {
+      "author": "pctrade",
+      "updated": "2026-10-04T06:58:34-05:00"
+    },
+    "The_Dark_Knight": {
+      "author": "pctrade",
+      "updated": "2026-10-08T14:46:35Z"
+    },
+    "Tokyo_Night": {
+      "author": "pctrade",
+      "updated": "2026-10-09T02:31:15Z"
+    },
+    "brown": {
+      "author": "frankerlino",
+      "updated": "2026-10-08T19:31:19-05:00"
+    },
+    "flashbang": {
+      "author": "gushekkk",
+      "updated": "2026-10-06T17:13:58+05:00"
+    },
+    "green_too": {
+      "author": "Blapples",
+      "updated": "2026-10-06T15:46:51+08:00"
+    },
+    "minimal": {
+      "author": "sharknado55",
+      "updated": "2026-10-06T16:04:56+05:00"
+    },
+    "sakura": {
+      "author": "Asia4046",
+      "updated": "2026-10-08T21:04:37+05:30"
+    },
+    "shadcn": {
+      "author": "sharknado55",
+      "updated": "2026-10-07T17:11:47+05:00"
+    }
+  }
+}
